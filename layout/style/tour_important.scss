@@ -1,0 +1,139 @@
+.nav_link {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #231F20;
+}
+
+.call_search {
+  border: 3px solid #FFD700;
+  box-sizing: border-box;
+  border-radius: 16px;
+  margin-bottom: 10%;
+
+  .call_search_title {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 63px;
+    color: #231F20;
+  }
+
+  .call_search_subtitle {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    color: #231F20;
+  }
+
+  .call_search_btn {
+    background: #FFD700;
+    border-radius: 8px;
+    border: 0;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    text-transform: uppercase;
+    color: #231F20;
+  }
+
+  .form-control {
+    width: 400px;
+    height: 86px;
+  }
+}
+
+.footer {
+  .footer_tel {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 28px;
+    color: #231F20;
+  }
+}
+
+
+.order_tour_name {
+  background: url("../img/big-scroller/1.png") no-repeat center;
+  background-size: cover;
+  padding-bottom: 12%;
+
+  .order_tour_title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 63px;
+    color: #FFFFFF;
+  }
+
+  .order_tour_categories {
+    background: 0;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: #FFF;
+
+    &:hover {
+      background: #FFF;
+      color: #000000;
+    }
+  }
+}
+
+
+.card_short_info {
+  background: #FFFFFF;
+  border: 1px solid #E0E0E0;
+  box-sizing: border-box;
+  border-radius: 16px;
+
+  .short_info_price {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 36px;
+    color: #000000;
+  }
+
+  .short_info_order {
+    background: #FFD700;
+    border-radius: 8px;
+    border: 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    text-transform: uppercase;
+    color: #231F20;
+  }
+}
+
+.tour_important {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 32px;
+  color: #000000;
+}
+
+.tour_subtitle {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #231F20;
+}

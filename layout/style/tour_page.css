@@ -1,0 +1,221 @@
+.nav_link {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #231F20; }
+
+.call_search {
+  border: 3px solid #FFD700;
+  box-sizing: border-box;
+  border-radius: 16px;
+  margin-bottom: 10%; }
+  .call_search .call_search_title {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 63px;
+    color: #231F20; }
+  .call_search .call_search_subtitle {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    color: #231F20; }
+  .call_search .call_search_btn {
+    background: #FFD700;
+    border-radius: 8px;
+    border: 0;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    text-transform: uppercase;
+    color: #231F20; }
+  .call_search .form-control {
+    width: 400px;
+    height: 86px; }
+
+.footer .footer_tel {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  color: #231F20; }
+
+.order_tour_name {
+  background: url("../img/big-scroller/1.png") no-repeat center;
+  background-size: cover;
+  padding-bottom: 12%; }
+  .order_tour_name .order_tour_title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 63px;
+    color: #FFFFFF; }
+  .order_tour_name .order_tour_categories {
+    background: 0;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: #FFF; }
+    .order_tour_name .order_tour_categories:hover {
+      background: #FFF;
+      color: #000000; }
+
+.card_short_info {
+  background: #FFFFFF;
+  border: 1px solid #E0E0E0;
+  box-sizing: border-box;
+  border-radius: 16px; }
+  .card_short_info .short_info_price {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 36px;
+    color: #000000; }
+  .card_short_info .short_info_order {
+    background: #FFD700;
+    border-radius: 8px;
+    border: 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    text-transform: uppercase;
+    color: #231F20; }
+
+.tour_page_pointer .tour_page_point {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #231F20; }
+  .tour_page_pointer .tour_page_point:hover {
+    font-weight: bold;
+    color: #000; }
+
+.tour_info_description .tour_desc_title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 32px;
+  color: #000000; }
+.tour_info_description .tour_desc_more_information {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  color: #231F20; }
+
+.title_all_weekend {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #231F20; }
+
+.points_all_week .point_all_week {
+  list-style: none;
+  position: relative; }
+  .points_all_week .point_all_week:before {
+    content: '';
+    display: block;
+    height: 15px;
+    width: 15px;
+    background: #FFD700;
+    border-radius: 50%;
+    position: absolute;
+    top: 10%; }
+  .points_all_week .point_all_week p {
+    color: #231F20;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    padding-left: 8%; }
+
+.tour_similar_tour .tour_similar_tour_card {
+  border: 1px solid #BDBDBD;
+  box-sizing: border-box;
+  border-radius: 0px 0px 8px 8px; }
+  .tour_similar_tour .tour_similar_tour_card .tour_similar_tour_price {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #000000; }
+  .tour_similar_tour .tour_similar_tour_card .tour_similar_tour_day {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 32px;
+    color: #000000; }
+  .tour_similar_tour .tour_similar_tour_card .tour_similar_btn_tags {
+    background: 0;
+    border: 1px solid #BDBDBD;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #BDBDBD; }
+    .tour_similar_tour .tour_similar_tour_card .tour_similar_btn_tags:hover {
+      background: #FFF;
+      color: #000000; }
+
+.tour_description_text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  color: #828282 !important; }
+
+.text_description_choose {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000 !important; }
+
+.tour_description_price {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 36px;
+  color: #000000; }
+
+.tour_description_order {
+  border: 0;
+  background: #FFD700;
+  color: #000;
+  border-radius: 8px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 33px;
+  text-transform: uppercase;
+  color: #231F20; }
+
+/*# sourceMappingURL=tour_page.css.map */
